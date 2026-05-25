@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Mac files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
